@@ -1,6 +1,3 @@
-# free-vpn-telegram-bot-vless
-Быстрый бесплатный VPN в Telegram боте Vetryx. Надежный обход блокировок (YouTube, Instagram) по протоколам VLESS и Shadowsocks. Подключить за 1 минуту.
-
 # ⚡ Бесплатный VPN в Telegram — Высокоскоростной Vetryx VPN (VLESS, Shadowsocks)
 
 [![Официальный сайт Vetryx](https://img.shields.io/badge/Сайт-Vetryx.xyz-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vetryx.xyz/)
@@ -18,7 +15,7 @@
 *   **⚡ Высокая скорость до 1 Гбит/с:** Серверы расположены в ключевых европейских дата-центрах (Нидерланды, Германия, Финляндия). Подходит для просмотра YouTube в 4K Ultra HD без задержек.
 *   **🔒 Протоколы нового поколения:** Полная поддержка современных протоколов **VLESS** (с маскировкой XTLS-Reality), **Shadowsocks** и **Trojan**. Провайдеры видят ваш трафик как обычное посещение сайтов (HTTPS).
 *   **🤖 Удобное подключение через Telegram:** Управление подписками, тарифами и ключами происходит через интерактивного [телеграм-бота Vetryx](https://t.me/VetryxVPN_bot).
-*   **📱 Универсальность:** Настройка на Android, iOS (iPhone), Windows, macOS, Linux и роутерах. Поддерживаются все популярные приложения-клиенты (v2rayNG, Shadowrocket, Nekobox, Sing-box, Happ, Incy).
+*   **📱 Универсальность:** Настройка на Android, iOS (iPhone), Windows, macOS, Linux и роутерах. Поддерживаются все популярные приложения-клиенты (v2rayNG, Shadowrocket, Nekobox, Sing-box).
 *   **🚫 Без рекламы и логов:** Мы гарантируем полную конфиденциальность. Ваши сессии шифруются и не сохраняются на серверах.
 
 ---
@@ -46,5 +43,35 @@
 
 ---
 
-### 🔍 Ключевые поисковые маркеры (LSI)
-`впн бесплатно`, `скачать vpn для телеграм`, `купить надежный впн`, `быстрый vpn для обхода блокировок`, `vless ключ бесплатно`, `shadowsocks конфиг`, `безопасный впн в рф`, `vetryx vpn отзывы`, `лучший телеграм впн бот`, `vpn для ютуб на пк`, `vpn для телефона андроид айфон`.
+## 📂 Техническая документация и справочные материалы
+
+### 📖 Полезные инструкции по настройке:
+* 🌐 **[Рабочий VPN для обхода блокировок в России — Общие принципы](https://github.com/bigmanstan/free-vpn-telegram-bot-vless/wiki/VPN-dlya-obhoda-blokirovok-v-Rossii)**
+* 📱 **[Как настроить Vetryx VPN на iOS через приложения Happ и Incy](https://github.com/bigmanstan/free-vpn-telegram-bot-vless/wiki/Как-настроить-Vetryx-VPN-на-iOS-через-Happ-и-Incy)**
+* 💻 **[Как настроить VLESS для обхода замедления YouTube на ПК (Windows и macOS)](https://github.com/bigmanstan/free-vpn-telegram-bot-vless/wiki/Kak-nastroit-vless-dlya-obhoda-zamedleniya-YouTube-na-PC)**
+* 📺 **[VLESS ключ для Smart TV и Android TV: пошаговая настройка для телевизора](https://github.com/bigmanstan/free-vpn-telegram-bot-vless/wiki/VLESS-kluch-dlya-Smart-TV-i-Android-TV-nastroika)**
+
+---
+
+<details>
+<summary><b>Развернуть список поддерживаемых протоколов и поисковых запросов (SEO Metadata)</b></summary>
+
+### Кластер 1: Бесплатные и общие запросы (Free & General VPN)
+* бесплатный впн, скачать впн бесплатно, рабочий впн в россии, впн без ограничений скорости, впн для андроид скачать, впн на айфон бесплатно, быстрый впн для пк, vpn для windows 10, vpn для windows 11, лучший бесплатный vpn, надежный vpn сервис, впн онлайн бесплатно, впн без регистрации, бесплатный впн без рекламы, скачать впн на телефон.
+
+### Кластер 2: Протоколы нового поколения (VLESS / Shadowsocks / Trojan / Reality)
+* vless ключи бесплатно, shadowsocks ключи телеграм, настройка vless xtls reality, скачать v2rayng конфиг, shadowrocket ключи для айфона, бесплатный vless конфиг, рабочие прокси shadowsocks, sing-box настройка vless, nekobox впн ключи, троян впн конфигурация, амнезия впн конфиг, amnezia wg ключи, vless бесплатно telegram, купить vless подписку, x-ray vless впн.
+
+### Кластер 3: VPN в Telegram (Telegram Bot VPN)
+* впн бот в телеграмме, бесплатный vpn telegram bot, впн через тг, vetryx vpn бот, бот с ключами vless, купить впн в телеграм, телеграм бот для обхода блокировок, прокси для телеграм, быстрый впн бот бесплатно, впн бот отзывы, подключить vpn в telegram, vpn telegram bot free.
+
+### Кластер 4: Обход блокировок и конкретные сервисы (Bypass & Unblocking)
+* впн для ютуба на пк, как обойти блокировку youtube, впн для инстаграм бесплатно, впн для дискорда, discord vpn обход, впн для твиттера, обход замедления ютуба, впн для онлайн игр с низким пингом, впн для турецкого ps store, vpn для pubg mobile, обход dpi блокировок провайдера, впн для ростелеком, впн для билайн, впн для мтс.
+
+### Кластер 5: Гео-запросы и локации серверов (Geo-targeted VPN)
+* впн нидерланды бесплатно, купить впн с сервером в германии, впн турция на месяц, впн финляндия ключ, vpn с российским ip адресом, впн европа быстро, европейские впн серверы, купить зарубежный впн, vpn usa free, впн польша, впн франция скачать.
+
+### Брендовые запросы (Vetryx VPN Brand)
+* vetryx vpn отзывы, vetryx vpn скачать, vetryx vpn бесплатно, vetryx.xyz зеркало, vetryxnews telegram, vetryxvpn_bot бесплатно, ветрикс впн отзывы, ветрикс впн телеграм бот.
+
+</details>
